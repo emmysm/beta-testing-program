@@ -58,4 +58,14 @@ This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 |    |
 |    |
 
+## Procedure
+
+One our before the daily meeting, the testing team leader will instruct team members which apk to download or how to update their installation. Team members will join the meeting and will follos the team leader instructions on what to test during that session.
+
+Each team member will report any problem found openning a github issue in this same repository, and compleating the test report template. It will add screenshots captured by their device to the issue to ilustrate what he/she was seing at the moment. 
+
+The issues found will be discussed aloud and would be reproduced by other team members online. Other ream members will follow up the issue with their own comments, screenshoots or whatever information they believe relevant to solve the problem. 
+
+In the same issue, developers team leaders and / or developers team members will be tagged in order for them to be hooked into the issue and possibly ask for more information. If the hangout session is not over they might join the conference call for a while to gather intelligence in real time. Finally they will create their own issues at their own repository to detail the things necesary to do by their own team. 
+
 
