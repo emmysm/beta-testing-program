@@ -15,48 +15,50 @@ These are the teams doing Beta Testing on Fermat and Fermat APPs.
 
 This team is meeting from 11.30 to 13.30 (GMT -3). Its members are:
 
-|Name|
-|:--:|
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
+|Name|Github Username|
+|:--:|:--:|
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
 
 
 ### Afternoon Team
 
 This team is meeting from 16.30 to 18.30 (GMT -3). Its members are:
 
-|Name|
-|:--:|
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
+|Name|Github Username|
+|:--:|:--:|
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+
 
 
 ### Evening Team
 
 This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 
-|Name|
-|:--:|
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
-|    |
+|Name|Github Username|
+|:--:|:--:|
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+|    |    |
+
 
 ## Procedure
 
