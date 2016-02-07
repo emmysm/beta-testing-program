@@ -7,6 +7,17 @@
 
 The Fermat Beta Testing Program is run with a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform use case testing at their own devices guided by their team leader. All these meetings are public and can be viewed live via youtube and recorded for further analisys. 
 
+## Signing Up
+
+To Sign Up for this program you have to follow these steps:
+
+1. Create a github user in case you don't already have one. Get sure to set it up with your name and picture.
+2. Create an Issue in this repo with this subject "Sign Up Application for Beta Tester")
+3. At the first message tell us whay you want to join and a member of the @beta-testing-program-team will follow up 
+4. You will have an interview via hangouts
+5. You will choose which team to join according to availability
+6. You are in!
+
 ## Teams
 
 These are the teams doing Beta Testing on Fermat and Fermat APPs.
