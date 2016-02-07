@@ -3,10 +3,12 @@
 
 # Beta Testing Program
 
+<br>
 ## Introduction
 
 The Fermat Beta Testing Program is run with a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform use case testing at their own devices guided by their team leader. All these meetings are public and can be viewed live via youtube and recorded for further analisys. 
 
+<br>
 ## Signing Up
 
 To Sign Up for this program you have to follow these steps:
@@ -18,6 +20,7 @@ To Sign Up for this program you have to follow these steps:
 5. You will choose which team to join according to availability
 6. You are in!
 
+<br>
 ## Teams
 
 These are the teams doing Beta Testing on Fermat and Fermat APPs.
@@ -91,6 +94,7 @@ Its members are:
 |    |    |
 
 
+<br>
 ## Procedure
 
 ### Introduction
