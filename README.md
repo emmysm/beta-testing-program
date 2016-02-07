@@ -15,9 +15,9 @@ These are the teams doing Beta Testing on Fermat and Fermat APPs.
 
 This team is meeting from:
 
-ARG | CHL | URU Time: 11.30 to 13.30 (GMT -3). 
-VEN Time: 10.00 to 12.00 (GMT -4.5). 
-BRA Time: 12.30 to 14.30 (GMT -2). 
+ARG | CHL | URU Time: 11.30 to 13.30 (GMT -3). <br>
+VEN Time: 10.00 to 12.00 (GMT -4.5). <br>
+BRA Time: 12.30 to 14.30 (GMT -2). <br>
 
 Its members are:
 
@@ -37,9 +37,9 @@ Its members are:
 
 This team is meeting from:
 
-ARG | CHL | URU Time: 16.30 to 18.30 (GMT -3). 
-VEN Time: 15.00 to 17.00 (GMT -4.5). 
-BRA Time: 17.30 to 19.30 (GMT -2). 
+ARG | CHL | URU Time: 16.30 to 18.30 (GMT -3). <br>
+VEN Time: 15.00 to 17.00 (GMT -4.5). <br>
+BRA Time: 17.30 to 19.30 (GMT -2). <br>
 
 Its members are:
 
@@ -62,9 +62,9 @@ This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 
 This team is meeting from:
 
-ARG | CHL | URU Time: 21.30 to 23.30 (GMT -3). 
-VEN Time: 20.00 to 22.00 (GMT -4.5). 
-BRA Time: 22.30 to 24.30 (GMT -2). 
+ARG | CHL | URU Time: 21.30 to 23.30 (GMT -3). <br>
+VEN Time: 20.00 to 22.00 (GMT -4.5). <br>
+BRA Time: 22.30 to 24.30 (GMT -2). <br>
 
 Its members are:
 
