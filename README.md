@@ -9,6 +9,11 @@
 The Fermat Beta Testing Program is run with a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform use case testing at their own devices guided by their team leader. All these meetings are public and can be viewed live via youtube and recorded for further analisys. 
 
 <br>
+## Getting Ready
+
+There are several resources you can read or videos to see to learn about the Fermat project. Most of them are listed [here](https://github.com/bitDubai/learning-fermat). 
+
+<br>
 ## Signing Up
 
 To Sign Up for this program you have to follow these steps:
