@@ -46,6 +46,7 @@ Its members are:
 |    |    |
 |    |    |
 
+Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
 
 ### Afternoon Team
 
@@ -68,7 +69,7 @@ Its members are:
 |    |    |
 |    |    |
 
-
+Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
 
 ### Evening Team
 
@@ -93,6 +94,7 @@ Its members are:
 |    |    |
 |    |    |
 
+Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
 
 <br>
 ## Procedure
