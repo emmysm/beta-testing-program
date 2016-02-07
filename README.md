@@ -99,7 +99,7 @@ Its members are:
 |    |    |
 |    |    |
 
-Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
+Team Leader: Undefined (github: Undefined)
 
 <br>
 ## Procedure
