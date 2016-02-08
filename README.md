@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The Fermat Beta Testing Program is run with a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform the use case testing in their own devices guided by the team leader. All these meetings are public and can be viewed live via youtube and recorded for further analisys. 
+The Fermat Beta Testing Program is run by a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform the use case testing in their own devices guided by the team leader. All these meetings are public and can be viewed live via youtube and recorded for further analysis. 
 
 ## Teams
 
@@ -62,12 +62,12 @@ This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 
 ## Procedure
 
-One our before the daily meeting, the testing team leader will instruct team members which apk to download or how to update their installation. Team members will join the meeting and will follos the team leader instructions on what to test during that session.
+One hour before the daily meeting, the testing team leader will instruct team members about which apk to download or how to update their installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session.
 
-Each team member will report any problem found openning a github issue in this same repository, and compleating the test report template. It will add screenshots captured by their device to the issue to ilustrate what he/she was seing at the moment. 
+Each team member will report any problem found by opening a github issue in this same repository, and completing the test report template. It will add screenshots captured by their device to the issue to show what he/she was seing at the moment. 
 
-The issues found will be discussed aloud and would be reproduced by other team members online. Other ream members will follow up the issue with their own comments, screenshoots or whatever information they believe relevant to solve the problem. 
+The issues found will be discussed aloud and would be reproduced by other team members online. Other team members will follow up the issue with their own comments, screenshots or whatever information they believe is relevant to solve the problem. 
 
-In the same issue, developers team leaders and / or developers team members will be tagged in order for them to be hooked into the issue and possibly ask for more information. If the hangout session is not over they might join the conference call for a while to gather intelligence in real time. Finally they will create their own issues at their own repository to detail the things necesary to do by their own team. 
+In the same issue, developer team leaders and / or developer team members will be tagged in order for them to be hooked into the issue and possibly ask for more information. If the hangout session is not over they might join the conference call for a while in order to gather knowledge in real time. Finally, they will create their own issues in their own repository detailing the things that must be done by their own team.
 
 
