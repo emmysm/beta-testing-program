@@ -127,8 +127,7 @@ Team Leader: Undefined (github: Undefined)
 
 One hour before the daily meeting, the testing team leader will instruct team members about which APK (mobile APP) to download and install or how to update their current installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session is going to be about.
 
-Team members will report any problem found by opening a github issue in this same repository (in a very similar way you created a new issue to sign up for the program), and completing a test report template. They will add screenshots captured by their device to the issue to show what they were seing at the moment. 
-
+Team members will report any problem found during their tests by opening a github issue in this same repository (in a very similar way you created a new issue to sign up for the program), and completing a test report template. They will add screenshots captured by their device to the issue to show what they were seing at the moment. 
 
 The issues found will be discussed aloud and would be reproduced by other team members online. Other team members will follow up the issue with their own comments, screenshots or whatever information they believe is relevant to solve the problem. 
 
