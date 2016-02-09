@@ -10,11 +10,6 @@ The Fermat Beta Testing Program is run by a network of testers distributed in se
 
 
 <br>
-## Getting Ready
-
-There are several resources you can read or videos to see to learn about the Fermat project. Most of them are listed [here](https://github.com/bitDubai/learning-fermat). 
-
-<br>
 ## Signing Up
 
 To Sign Up for this program you have to follow these steps:
@@ -168,4 +163,6 @@ Your bounty will be equal to the difference between the amount of tokens develop
 All those tokens will be splitted between all the teams testing that APP. You will freely agree between team leaders and members how to split the bounty case by case.
 
 The amount everyone receives will be recorded at the document representing the proyect being tested. An example of such a document can be find [here](https://github.com/bitDubai/bounty-program/blob/master/bounties/Digital-Asset-Platform.md). 
+
+
 
