@@ -31,7 +31,7 @@ To Sign Up for this program you have to follow these steps:
 <br><br><br>
 2. Press the button "New Issue" at the top right of the screen.
 <br><br>
-![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-1.png "Tutorial 2")
+![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
 <br><br><br>
 3. Write the text shown in the picture with you own name and contact info. Then press the button "Submit New Issue" whan done.
