@@ -125,7 +125,7 @@ Team Leader: Undefined (github: Undefined)
 <br>
 ## Procedure
 
-One hour before the daily meeting, the testing team leader will instruct team members about which apk to download or how to update their installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session.
+One hour before the daily meeting, the testing team leader will instruct team members about which APK (mobile APP) to download and install or how to update their current installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session is going to be about.
 
 Each team member will report any problem found by opening a github issue in this same repository, and completing the test report template. It will add screenshots captured by their device to the issue to show what he/she was seing at the moment. 
 
