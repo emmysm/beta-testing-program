@@ -4,7 +4,7 @@
 # Beta Testing Program
 
 <br>
-## Introduction
+## Introducción 
 
 The Fermat Beta Testing Program is run by a network of testers distributed in several teams. Each team meets for 2 hours a day via Hangouts to perform the use case testing in their own devices guided by the team leader. All these meetings are public and can be viewed live via youtube and recorded for further analysis. 
 
