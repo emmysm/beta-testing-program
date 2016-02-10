@@ -12,19 +12,18 @@ El programa de Fermat "Beta Testing Program" es una red de testers distribuidos 
 <br>
 ## Inscripcion
 
-To Sign Up for this program you have to follow these steps:
 Para inscribirse en el programa hay que seguir los siguientes pasos:
 
-1.Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografia.
-2.Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
-3.El primer mensaje contanos por que decidiste unirte a Fermat. (no se entiende)
-4.Tendrás una entrevista via hangouts.
-5.Elijirás el equipo acorde a tu disponibilidad de horario.
-6.Ya estas adentro.
+1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografia.
+2. Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
+3. El primer mensaje contanos por que decidiste unirte a Fermat. (no se entiende)
+4. Tendrás una entrevista via hangouts.
+5. Elijirás el equipo acorde a tu disponibilidad de horario.
+6. Ya estas adentro.
 
 
 
-### Sign up Tutorial
+### Tutoria Inscripción
 
 <br><br><br>
 1. Touch on the link called "Issues" at the top left of the screen.
@@ -50,19 +49,21 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 
 
 <br>
-## Teams
+## Equipos
 
-These are the teams doing Beta Testing on Fermat and Fermat APPs.
 
-### Morning Team
+Estos son los equipos haciendo Beta Testin sobre Fermat y Fermat APPs.
 
-This team is meeting from:
+### Equipo de la Mañana 
+
+Este equipo se reune desde: 
 
 ARG | CHL | URU Time: 11.30 to 13.30 (GMT -3). <br>
 VEN Time: 10.00 to 12.00 (GMT -4.5). <br>
 BRA Time: 12.30 to 14.30 (GMT -2). <br>
 
 Its members are:
+Sus miembros son:
 
 |Name|Github Username|
 |:--:|:--:|
@@ -75,11 +76,11 @@ Its members are:
 |    |    |
 |    |    |
 
-Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
+Lider del equipo: Augusto Ponce de Leon (github: augusto-ponce)
 
-### Afternoon Team
+### Equipo de la Tarde
 
-This team is meeting from:
+Este equipo se reune desde:
 
 ARG | CHL | URU Time: 16.30 to 18.30 (GMT -3). <br>
 VEN Time: 15.00 to 17.00 (GMT -4.5). <br>
@@ -98,9 +99,9 @@ Its members are:
 |    |    |
 |    |    |
 
-Team Leader: Augusto Ponce de Leon (github: augusto-ponce)
+Lider del equipo: Augusto Ponce de Leon (github: augusto-ponce)
 
-### Evening Team
+### Equipo de noche
 
 This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 
