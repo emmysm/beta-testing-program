@@ -86,7 +86,7 @@ ARG | CHL | URU Time: 16.30 to 18.30 (GMT -3). <br>
 VEN Time: 15.00 to 17.00 (GMT -4.5). <br>
 BRA Time: 17.30 to 19.30 (GMT -2). <br>
 
-Its members are:
+Sus miembros son:
 
 |Name|Github Username|
 |:--:|:--:|
@@ -103,15 +103,14 @@ Lider del equipo: Augusto Ponce de Leon (github: augusto-ponce)
 
 ### Equipo de noche
 
-This team is meeting from 21.30 to 23.30 (GMT -3). Its members are:
 
-This team is meeting from:
+Este equipo se reune desde:
 
 ARG | CHL | URU Time: 21.30 to 23.30 (GMT -3). <br>
 VEN Time: 20.00 to 22.00 (GMT -4.5). <br>
 BRA Time: 22.30 to 24.30 (GMT -2). <br>
 
-Its members are:
+Sus miembros son:
 
 |Name|Github Username|
 |:--:|:--:|
@@ -124,10 +123,10 @@ Its members are:
 |    |    |
 |    |    |
 
-Team Leader: Undefined (github: Undefined)
+Lider del equipo: Undefined (github: Undefined)
 
 <br>
-## Procedure
+## Procedimiento
 
 One hour before the daily meeting, the testing team leader will instruct team members about which APK (mobile APP) to download and install or how to update their current installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session is going to be about.
 
