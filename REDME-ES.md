@@ -16,27 +16,28 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 
 1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografia.
 2. Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
-3. El primer mensaje contanos por que decidiste unirte a Fermat. (no se entiende)
+3. El primer mensaje contanos por que decidiste unirte a Fermat y luego alguien del programa Beta-Testing-Program se pondra en contacto contigo.
 4. Tendrás una entrevista via hangouts.
 5. Elijirás el equipo acorde a tu disponibilidad de horario.
 6. Ya estas adentro.
 
 
 
-### Tutoria Inscripción
+### Tutorial Inscripción
 
 <br><br><br>
-1. Touch on the link called "Issues" at the top left of the screen.
+1. Haz clik en el boton "Issues" en la parte de arriba a la izquierda de la pantalla.
+
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-1.png "Tutorial 1")
 
 <br><br><br>
-2. Press the button "New Issue" at the top right of the screen.
+2.  Presiona el boton "New Issue" en la parte derecha superior de la pantalla
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
 <br><br><br>
-3. Write the text shown in the picture with you own name and contact info. Then press the button "Submit New Issue" when done.
+3. Write the text shown in the picture with you own name and contact info. Then press the button "Submit New Issue" when done. Escribe
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-3.png "Tutorial 3")
 
