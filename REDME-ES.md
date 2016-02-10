@@ -19,12 +19,10 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 2.Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
 3.El primer mensaje contanos por que decidiste unirte a Fermat. (no se entiende)
 4.Tendrás una entrevista via hangouts.
-5.
+5.Elijirás el equipo acorde a tu disponibilidad de horario.
+6.Ya estas adentro.
 
-3. At the first message tell us whay you want to join and a member of the @beta-testing-program-team will follow up 
-4. You will have an interview via hangouts
-5. You will choose which team to join according to availability
-6. You are in!
+
 
 ### Sign up Tutorial
 
