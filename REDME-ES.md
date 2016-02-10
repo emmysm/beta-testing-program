@@ -37,12 +37,12 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
 <br><br><br>
-3. Write the text shown in the picture with you own name and contact info. Then press the button "Submit New Issue" when done. Escribe
+3. Escribe dentro del cuadro como se describe en la fotografia, tu nombre, informacion para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-3.png "Tutorial 3")
 
 <br><br><br>
-4. You will see a similar screen to this one. Wait to be contacted by the @beta-testing-program-team.
+4. Verás una pantalla similar a esta. Espera a ser contactado por @beta-testing-program-team
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-4.png "Tutorial 4")
 
@@ -129,9 +129,9 @@ Lider del equipo: Undefined (github: Undefined)
 <br>
 ## Procedimiento
 
-One hour before the daily meeting, the testing team leader will instruct team members about which APK (mobile APP) to download and install or how to update their current installation. Team members will join the meeting and will follow the team leader's instructions on what to test during that session is going to be about.
+Una hora antes de la reunión diaria, el lider de tu equipo Beta-Testing te mandara instrucciones sobre cual APK (aplicación mobil) se testeara o si tenen que hacer una actualización de la aplicacion que ya tenes en tu celular o lo que se vaya a trabajar ese dia. Los miembros del equipo empezaran la reunion y seguirán las instrucciones del Lider del equipo sobre lo que testeará en esa ocación. 
 
-Team members will report any problem found during their tests by opening a github issue in this same repository (in a very similar way you created a new issue to sign up for the program), and completing a test report template. They will add screenshots captured by their device to the issue to show what they were seing at the moment. 
+Los miembros del equipo reportarán cualquier problema que encuentren durante el testeo abriendo en github un caso (Issue) en el mismo repositorio ( de similar manera que lo hicieron cuando se inscribieron en el programa) y completar la planilla de reporte. Adozaran a la planilla las capturas de pantalla de sus telefonos con el problema que se muestre en la pantalla. 
 
 The issues found will be discussed aloud and would be reproduced by other team members online. Other team members will follow up the issue with their own comments, screenshots or whatever information they believe is relevant to solve the problem. 
 
