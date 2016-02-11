@@ -137,11 +137,12 @@ El problema encontrado se discutira y sera reproducido tambien por los otros mie
 
 En el mismo caso (issue), los lideres de grupo de programadores y desarrolladores serán tagueados para que as´queden enganchados en el caso y asi ellos poder hacer preguntas o recavar mas información que ellos crean necesario para resolver el caso. Si todavia los Beta-Testing siguen en la sesión de hangout, los programadores podrán ingresar online para recavar información o tratar de resolver el caso. Finalmente ellos crearan su propio caso en sus repositorios detallando las cosas que deben hacerse para resolver el problema con sus equipos.
 
-### Reporting an Issue
+### Reportando un problema
 
 In this repository you will report an Issue every time you find something that is not working fine. The procedure to do so is the following:
+En este respositorio se reportarán los problemas cada vez que se encuentra algo que no este funcionando bien. El procedimiento para hacer esto es asi: 
 
-#### Report a Possible Bug
+#### Reporte para posibles errores.
 
 -- write procedure here considering is going to be done from a mobile phone--
 
@@ -149,12 +150,11 @@ In this repository you will report an Issue every time you find something that i
 
 -- write here the follow up procedure --
 
-### Bounty Program
+### Programa de recompensa
 
-Developers teams usually are rewarded a bounty when they finish a project on time. These bounties are governed by the [Fermat Bounty Program](https://github.com/bitDubai/bounty-program).
+Los equipos de programadores usualmente se les paga un extra como una recompensa cuando finalizan su proyencto a tiempo. Estas recompensas son manejadas por  [Fermat Bounty Program](https://github.com/bitDubai/bounty-program).
 
-When developers finish programming their software enter in what is called Alpha phase, were they correct bugs and polish their work. After they pass functionality tests their software enters the Beta phase and at that point is when you start testing their software. 
-
+Cuando los programadores terminan de programar sus software, esa etapa se la denomina Fase Alpha, donde se corriguen errores y se pulen defectos. Despues se pasa a una estapa de Testeo llamada Fase Beta y en ese punto es cuando comienza a probar el software.
 Everyday you will test their software and find bugs (something that doesn't work well) that they will correct and you will test again. 
 
 Usually they are awarded their bounty when their code reaches Alpha stage, but their bounty is not payed until it reaches Release state. That means that while you are finding bugs on their code they don't get paid and as Fermat tokens value raises month over month, they will get less tokens if time passes and they don't reach Release state. That is an incentive for them to produce software without problems. 
