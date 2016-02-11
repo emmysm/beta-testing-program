@@ -135,7 +135,7 @@ Los miembros del equipo reportarán cualquier problema que encuentren durante el
 
 El problema encontrado se discutira y sera reproducido tambien por los otros miebros del equipo Beta-testing. Los otro miembros del equipo seguiran el problema haciendo sus propios comentarios, capturas de pantallas o cualquier información que ellos crean relevante para resolver el problema.
 
-In the same issue, developer team leaders and / or developer team members will be tagged in order for them to be hooked into the issue and possibly ask for more information. If the hangout session is not over they might join the conference call for a while in order to gather knowledge in real time. Finally, they will create their own issues in their own repository detailing the things that must be done by their own team.
+En el mismo caso (issue), los lideres de grupo de programadores y desarrolladores serán tagueados para que as´queden enganchados en el caso y asi ellos poder hacer preguntas o recavar mas información que ellos crean necesario para resolver el caso. Si todavia los Beta-Testing siguen en la sesión de hangout, los programadores podrán ingresar online para recavar información o tratar de resolver el caso. Finalmente ellos crearan su propio caso en sus repositorios detallando las cosas que deben hacerse para resolver el problema con sus equipos.
 
 ### Reporting an Issue
 
