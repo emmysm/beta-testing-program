@@ -158,6 +158,7 @@ Cuando los programadores terminan de programar sus software, esa etapa se la den
 Everyday you will test their software and find bugs (something that doesn't work well) that they will correct and you will test again. 
 
 Usually they are awarded their bounty when their code reaches Alpha stage, but their bounty is not payed until it reaches Release state. That means that while you are finding bugs on their code they don't get paid and as Fermat tokens value raises month over month, they will get less tokens if time passes and they don't reach Release state. That is an incentive for them to produce software without problems. 
+Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. ( preguntar) 
 
 You as a tester will have the opposite incentive. If you prevent their software to reach Release state by finding a lot of the problems (bugs) the software have, you will be awarded a bounty proportional to the time you prevented their software to reach release state.
 
