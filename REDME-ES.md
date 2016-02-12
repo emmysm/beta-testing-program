@@ -6,17 +6,17 @@
 <br>
 ## Introducción 
 
-El programa de Fermat "Beta Testing Program" es una red de testers distribuidos en algunos equipos de trabajo. Cada equipo se reunirá 2 horas por dia via Hangouts, (programa de video llamada de Google) el lider del equipo guiará los casos de testeo. Estas reuniones serán publicas y podran ser grabadas como tambien reproducidas via youtube para futuros analisis de los casos de Testing.
+El programa de Fermat "Beta Testing Program" es una red de testers distribuidos en algunos equipos de trabajo. Cada equipo se reunirá 2 horas por día vía Hangouts (programa de video llamada de Google) el líder del equipo guiará los casos de testeo. Estas reuniones serán públicas y podrán ser grabadas como también reproducidas vía youtube para futuros análisis de los casos de Testing.
 
 
 <br>
-## Inscripcion
+## Inscripción
 
 Para inscribirse en el programa hay que seguir los siguientes pasos:
 
-1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografia.
+1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografía.
 2. Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
-3. El primer mensaje contanos por que decidiste unirte a Fermat y luego alguien del programa Beta-Testing-Program se pondra en contacto contigo.
+3. El primer mensaje contanos por que decidiste unirte a Fermat y luego alguien del programa Beta-Testing-Program se pondrá en contacto contigo.
 4. Tendrás una entrevista via hangouts.
 5. Elijirás el equipo acorde a tu disponibilidad de horario.
 6. Ya estas adentro.
@@ -37,7 +37,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
 <br><br><br>
-3. Escribe dentro del cuadro como se describe en la fotografia, tu nombre, informacion para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
+3. Escribe dentro del cuadro como se describe en la fotografia, tu nombre, información para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-3.png "Tutorial 3")
 
@@ -129,17 +129,16 @@ Lider del equipo: Undefined (github: Undefined)
 <br>
 ## Procedimiento
 
-Una hora antes de la reunión diaria, el lider de tu equipo Beta-Testing te mandara instrucciones sobre cual APK (aplicación mobil) se testeara o si tenen que hacer una actualización de la aplicacion que ya tenes en tu celular o lo que se vaya a trabajar ese dia. Los miembros del equipo empezaran la reunion y seguirán las instrucciones del Lider del equipo sobre lo que testeará en esa ocación. 
+Una hora antes de la reunión diaria, el lider de tu equipo Beta-Testing te mandará instrucciones sobre cual APK (aplicación mobil) se testeará o si tienes que hacer una actualización de la aplicacion que ya tenes en tu celular o lo que se vaya a trabajar ese día. Los miembros del equipo empezarán la reunión y seguirán las instrucciones del Lider del equipo sobre lo que testeará en esa ocación. 
 
-Los miembros del equipo reportarán cualquier problema que encuentren durante el testeo abriendo en github un caso (Issue) en el mismo repositorio ( de similar manera que lo hicieron cuando se inscribieron en el programa) y completar la planilla de reporte. Adozaran a la planilla las capturas de pantalla de sus telefonos con el problema que se muestre en la pantalla. 
+Los miembros del equipo reportarán cualquier problema que encuentren durante el testeo abriendo en github un caso (Issue) en el mismo repositorio (de similar manera que lo hicieron cuando se inscribieron en el programa) y completar la planilla de reporte. Adozarán a la planilla las capturas de pantalla de sus telefonos con el problema que se muestre en la pantalla. 
 
-El problema encontrado se discutira y sera reproducido tambien por los otros miebros del equipo Beta-testing. Los otro miembros del equipo seguiran el problema haciendo sus propios comentarios, capturas de pantallas o cualquier información que ellos crean relevante para resolver el problema.
+El problema encontrado se discutira y sera reproducido tambien por los otros miebros del equipo Beta-testing. Los otro miembros del equipo seguirán el problema haciendo sus propios comentarios, capturas de pantallas o cualquier información que ellos crean relevante para resolver el problema.
 
-En el mismo caso (issue), los lideres de grupo de programadores y desarrolladores serán tagueados para que as´queden enganchados en el caso y asi ellos poder hacer preguntas o recavar mas información que ellos crean necesario para resolver el caso. Si todavia los Beta-Testing siguen en la sesión de hangout, los programadores podrán ingresar online para recavar información o tratar de resolver el caso. Finalmente ellos crearan su propio caso en sus repositorios detallando las cosas que deben hacerse para resolver el problema con sus equipos.
+En el mismo caso (issue), los lideres de grupo de programadores y desarrolladores serán tagueados para que asi´queden enganchados en el caso y asi ellos poder hacer preguntas o recavar mas información que ellos crean necesario para resolver el caso. Si todavía los Beta-Testing siguen en la sesión de hangout, los programadores podrán ingresar online para recavar información o tratar de resolver el caso participando de la reunión en linea. Finalmente ellos crearan su propio caso en sus repositorios detallando las cosas que deben hacerse para resolver el problema con sus equipos.
 
 ### Reportando un problema
 
-In this repository you will report an Issue every time you find something that is not working fine. The procedure to do so is the following:
 En este respositorio se reportarán los problemas cada vez que se encuentra algo que no este funcionando bien. El procedimiento para hacer esto es asi: 
 
 #### Reporte para posibles errores.
@@ -154,10 +153,9 @@ En este respositorio se reportarán los problemas cada vez que se encuentra algo
 
 Los equipos de programadores usualmente se les paga un extra como una recompensa cuando finalizan su proyencto a tiempo. Estas recompensas son manejadas por  [Fermat Bounty Program](https://github.com/bitDubai/bounty-program).
 
-Cuando los programadores terminan de programar sus software, esa etapa se la denomina Fase Alpha, donde se corriguen errores y se pulen defectos. Despues se pasa a una estapa de Testeo llamada Fase Beta y en ese punto es cuando  se comienza a probar el software.
-Cada dia se testeara el software y se tratará de encontrar problemas o algo que no funcione bien, este problema se corregirá y será testeado nuevamente.
+Cuando los programadores terminan de programar sus software, esa etapa se la denomina Fase Alpha, donde se corriguen errores y se pulen defectos. Despues se pasa a una etapa de Testeo llamada Fase Beta y en ese punto es cuando se comienza a probar el software.
+Cada día se testeara el software y se tratará de encontrar problemas o algo que no funcione bien, este problema se corregirá y será testeado nuevamente.
 
-Usually they are awarded their bounty when their code reaches Alpha stage, but their bounty is not payed until it reaches Release state. That means that while you are finding bugs on their code they don't get paid and as Fermat tokens value raises month over month, they will get less tokens if time passes and they don't reach Release state. That is an incentive for them to produce software without problems. 
 Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. Esto significa que mientras los testeadores encuentren problemas, los programadores no podrar cobrar las recompensas o incentivos (ya sea en dinero o en Fermat Tokens) hasta que se solucionen los problemas encontrados, los fermat tokens se valorizan mes a mes y a medida que pase mas el tiempo ellos iran cobrando menos tokens. Eso es un incentivo para produzcan softwares sin errores o bien para que solucionen rapido los problemas encontrado por los testers.
 
 Uno como testeador tendrá un incentivo opuesto. Si un tester previenen que el software alcance el estado de liberación (encontrando problemas en el mismo) sera premiado con un bono o recompensa , mientras siga previniendo que el software alcance el estado de liberación.
