@@ -154,13 +154,13 @@ En este respositorio se reportarán los problemas cada vez que se encuentra algo
 
 Los equipos de programadores usualmente se les paga un extra como una recompensa cuando finalizan su proyencto a tiempo. Estas recompensas son manejadas por  [Fermat Bounty Program](https://github.com/bitDubai/bounty-program).
 
-Cuando los programadores terminan de programar sus software, esa etapa se la denomina Fase Alpha, donde se corriguen errores y se pulen defectos. Despues se pasa a una estapa de Testeo llamada Fase Beta y en ese punto es cuando comienza a probar el software.
-Everyday you will test their software and find bugs (something that doesn't work well) that they will correct and you will test again. 
+Cuando los programadores terminan de programar sus software, esa etapa se la denomina Fase Alpha, donde se corriguen errores y se pulen defectos. Despues se pasa a una estapa de Testeo llamada Fase Beta y en ese punto es cuando  se comienza a probar el software.
+Cada dia se testeara el software y se tratará de encontrar problemas o algo que no funcione bien, este problema se corregirá y será testeado nuevamente.
 
 Usually they are awarded their bounty when their code reaches Alpha stage, but their bounty is not payed until it reaches Release state. That means that while you are finding bugs on their code they don't get paid and as Fermat tokens value raises month over month, they will get less tokens if time passes and they don't reach Release state. That is an incentive for them to produce software without problems. 
-Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. ( preguntar) 
+Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. Esto significa que mientras los testeadores encuentren problemas, los programadores no podrar cobrar las recompensas o incentivos (ya sea en dinero o en Fermat Tokens) hasta que se solucionen los problemas encontrados. Eso es un incentivo para produzcan softwares sin errores.
 
-You as a tester will have the opposite incentive. If you prevent their software to reach Release state by finding a lot of the problems (bugs) the software have, you will be awarded a bounty proportional to the time you prevented their software to reach release state.
+Uno como testeador tendremos un incentivo opuesto. Si un tester previenen que el software alcance el estado de liberación (encontrando problemas en el mismo) sera premiado con un bono por el tiempo que siga previniendo que el software alcance el estado de liberación.
 
 Your bounty will be equal to the difference between the amount of tokens developers would receive at the date of entering Alpha, and the amount of tokens they finally receive entering the Release phase.
 
