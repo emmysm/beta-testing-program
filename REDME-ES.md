@@ -37,7 +37,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
 <br><br><br>
-3. Escribe dentro del cuadro como se describe en la fotografia, tu nombre, información para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
+3. Escribe dentro del cuadro como se describe en la fotografia de abajo, tu nombre, información para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-3.png "Tutorial 3")
 
