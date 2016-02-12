@@ -158,15 +158,15 @@ Cuando los programadores terminan de programar sus software, esa etapa se la den
 Cada dia se testeara el software y se tratará de encontrar problemas o algo que no funcione bien, este problema se corregirá y será testeado nuevamente.
 
 Usually they are awarded their bounty when their code reaches Alpha stage, but their bounty is not payed until it reaches Release state. That means that while you are finding bugs on their code they don't get paid and as Fermat tokens value raises month over month, they will get less tokens if time passes and they don't reach Release state. That is an incentive for them to produce software without problems. 
-Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. Esto significa que mientras los testeadores encuentren problemas, los programadores no podrar cobrar las recompensas o incentivos (ya sea en dinero o en Fermat Tokens) hasta que se solucionen los problemas encontrados. Eso es un incentivo para produzcan softwares sin errores.
+Usualmente ellos ganan un premio o recompensa cuando sus codigos alcanzan la Fase Alpha, pero el premio no se paga hasta se alcance el punto de liberación del software. Esto significa que mientras los testeadores encuentren problemas, los programadores no podrar cobrar las recompensas o incentivos (ya sea en dinero o en Fermat Tokens) hasta que se solucionen los problemas encontrados, los fermat tokens se valorizan mes a mes y a medida que pase mas el tiempo ellos iran cobrando menos tokens. Eso es un incentivo para produzcan softwares sin errores o bien para que solucionen rapido los problemas encontrado por los testers.
 
-Uno como testeador tendremos un incentivo opuesto. Si un tester previenen que el software alcance el estado de liberación (encontrando problemas en el mismo) sera premiado con un bono por el tiempo que siga previniendo que el software alcance el estado de liberación.
+Uno como testeador tendrá un incentivo opuesto. Si un tester previenen que el software alcance el estado de liberación (encontrando problemas en el mismo) sera premiado con un bono o recompensa , mientras siga previniendo que el software alcance el estado de liberación.
 
-Your bounty will be equal to the difference between the amount of tokens developers would receive at the date of entering Alpha, and the amount of tokens they finally receive entering the Release phase.
+La recompensa de los testers será igual a la diferencia entre la cantidad de tokens que los  desarrolladores recibirán en la fecha de entrar en alfa y la cantidad de tokens que reciben finalmente entrando en la fase de lanzamiento.
 
-All those tokens will be splitted between all the teams testing that APP. You will freely agree between team leaders and members how to split the bounty case by case.
+Los tokens recibidos será divididos entre todos los equipos de la aplicación a prueba. Usted acuerda libremente entre miembros y líderes de equipo cómo dividir la recompensa caso por caso.
 
-The amount everyone receives will be recorded at the document representing the proyect being tested. An example of such a document can be find [here](https://github.com/bitDubai/bounty-program/blob/master/bounties/Digital-Asset-Platform.md). 
+La cantidad que cada uno recibe se registrará en el documento del  proyecto sometido a prueba. Un ejemplo de dicho documento se puede encontrar[aqui](https://github.com/bitDubai/bounty-program/blob/master/bounties/Digital-Asset-Platform.md). 
 
 
 
