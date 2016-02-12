@@ -32,7 +32,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-1.png "Tutorial 1")
 
 <br><br><br>
-2.  Presiona el boton "New Issue" en la parte derecha superior de la pantalla
+2.  Presiona el boton "New Issue" en la parte derecha superior de la pantalla (color verde)
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-2.png "Tutorial 2")
 
