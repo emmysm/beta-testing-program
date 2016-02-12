@@ -166,7 +166,7 @@ La recompensa de los testers será igual a la diferencia entre la cantidad de to
 
 Los tokens recibidos será divididos entre todos los equipos de la aplicación a prueba. Usted acuerda libremente entre miembros y líderes de equipo cómo dividir la recompensa caso por caso.
 
-La cantidad que cada uno recibe se registrará en el documento del  proyecto sometido a prueba. Un ejemplo de dicho documento se puede encontrar[aqui](https://github.com/bitDubai/bounty-program/blob/master/bounties/Digital-Asset-Platform.md). 
+La cantidad que cada uno recibe se registrará en el documento del  proyecto sometido a prueba. Un ejemplo de dicho documento se puede encontrar [aqui](https://github.com/bitDubai/bounty-program/blob/master/bounties/Digital-Asset-Platform.md). 
 
 
 
