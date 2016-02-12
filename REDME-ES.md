@@ -26,7 +26,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 ### Tutorial Inscripción
 
 <br><br><br>
-1. Haz clik en el boton "Issues" en la parte de arriba a la izquierda de la pantalla.
+1. Haz clik en el boton "Issues" en la parte de arriba a la izquierda de la pantalla.Entre el boton CODE y Pull Recuests
 
 <br><br>
 ![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-1.png "Tutorial 1")
