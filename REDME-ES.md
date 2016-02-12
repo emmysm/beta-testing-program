@@ -14,14 +14,12 @@ El programa de Fermat "Beta Testing Program" es una red de testers distribuidos 
 
 Para inscribirse en el programa hay que seguir los siguientes pasos:
 
-1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografía.
+1. Crear una cuenta en github en caso de no tener una (https://github.com). Asegurarse de completar con su Nombre y poner una fotografía.
 2. Crear un Issue (caso o tema) en este repositorio con el titulo "Sign Up Application for Beta Tester"
 3. El primer mensaje contanos por que decidiste unirte a Fermat y luego alguien del programa Beta-Testing-Program se pondrá en contacto contigo.
 4. Tendrás una entrevista via hangouts.
 5. Elijirás el equipo acorde a tu disponibilidad de horario.
 6. Ya estas adentro.
-
-
 
 ### Tutorial Inscripción
 
