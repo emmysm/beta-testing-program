@@ -32,6 +32,7 @@ Accede aquí: https://github.com/join
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github1.png "Tutorial 1")
 
 <br><br><br>
+
 2.  Paso 2:  Una vez creada la cuenta, ingresa a GitHub con tu usuario y contraseña
 
 3.  Paso 3: Ingresa al siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues y haz click en “New Issue” (el botón verde que se encuentra a la derecha). 
@@ -40,14 +41,23 @@ Accede aquí: https://github.com/join
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github2.png "Tutorial 2")
 
 <br><br><br>
-3. Escribe dentro del cuadro como se describe en la fotografia de abajo, tu nombre, información para contacto. Luego haz clik en el boton "Submit New Issue" cuando hayas terminado.
+4.Paso 4:  Escribe dentro del cuadro como se describe en la fotografia de abajo:
+En “Title”: Sign Up Application for Beta Tester.
+En “Leave a Comment”: tu nombre e información de contacto. 
+Finalmente haz clik en el boton "Submit New Issue" cuando hayas terminado. 
+
 <br><br>
-![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-3.png "Tutorial 3")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github3.png "Tutorial 3")
 
 <br><br><br>
-4. Verás una pantalla similar a esta. Espera a ser contactado por @beta-testing-program-team
+5. Quedará de la siguiente manera:
 <br><br>
-![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-4.png "Tutorial 4")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github4.png "Tutorial 4")
+
+6.Paso 5: 4. Verás una pantalla similar a esta. Espera a ser contactado por @beta-testing-program-team!
+<br><br>
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github5.png"Tutorial 4")
+
 
 
 
