@@ -24,7 +24,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 
 ### Tutorial Inscripción
 
-<br><br><br>
+<br><br>
 1. Paso 1: Crea una cuenta en github.com que es la plataforma donde nos comunicamos todos los que participamos de Fermat!
 Accede aquí: https://github.com/join
 
