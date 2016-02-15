@@ -29,7 +29,7 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 1. Haz clik en el boton "Issues" en la parte de arriba a la izquierda de la pantalla.Entre el boton Code y Pull Requests
 
 <br><br>
-![alt text](https://github.com/bitDubai/beta-testing-program/blob/master/Tester-Tutorial-1.png "Tutorial 1")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github1.png "Tutorial 1")
 
 <br><br><br>
 2.  Presiona el boton "New Issue" en la parte derecha superior de la pantalla (color verde)
