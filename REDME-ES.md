@@ -8,7 +8,6 @@
 
 El programa de Fermat "Beta Testing Program" es una red de testers distribuidos en algunos equipos de trabajo. Cada equipo se reunirá 2 horas por día vía Hangouts (programa de video llamada de Google) el líder del equipo guiará los casos de testeo. Estas reuniones serán públicas y podrán ser grabadas como también reproducidas vía youtube para futuros análisis de los casos de Testing.
 
-
 <br>
 ## Inscripción
 
@@ -34,6 +33,7 @@ Accede aquí: https://github.com/join
 
 <br><br><br>
 2.  Paso 2:  Una vez creada la cuenta, ingresa a GitHub con tu usuario y contraseña
+
 3.  Paso 3: Ingresa al siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues y haz click en “New Issue” (el botón verde que se encuentra a la derecha). 
 
 <br><br>
