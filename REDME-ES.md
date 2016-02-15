@@ -24,7 +24,8 @@ Para inscribirse en el programa hay que seguir los siguientes pasos:
 
 <br><br>
 1. Paso 1: Crea una cuenta en github.com que es la plataforma donde nos comunicamos todos los que participamos de Fermat. 
-Accede aquí: https://github.com/join
+Accede aquí: https://github.com/join 
+Accederás a la pagina de github tal cual lo muestra en la imagen siguiente.
 
 <br><br>
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github1.png "Tutorial 1")
@@ -33,7 +34,7 @@ Accede aquí: https://github.com/join
 
 2.  Paso 2:  Una vez creada la cuenta, ingresa a GitHub con tu usuario y contraseña
 
-3.  Paso 3: Ingresa al siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues y haz click en “New Issue” (el botón verde que se encuentra a la derecha). 
+3.  Paso 3: Una vez que ya ingresaste en tu cuenta ingresa al siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues y haz click en “New Issue” (el botón verde que se encuentra a la derecha). 
 
 <br><br>
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github2.png "Tutorial 2")
