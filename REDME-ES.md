@@ -10,7 +10,6 @@ El programa de Fermat "Beta Testing Program" es una red de testers distribuidos 
 
 <br>
 ## Inscripción
-
 Para inscribirse en el programa hay que seguir los siguientes pasos:
 
 1. Crear una cuenta en github en caso de no tener una. Asegurarse de completar con su Nombre y poner una fotografía. (Ver Tutorial Inscripción mas abajo) 
