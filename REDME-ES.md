@@ -31,7 +31,7 @@ Accederás a la pagina de github tal cual lo muestra en la imagen siguiente para
 <br><br><br>
 2. Una vez creada la cuenta, ingresa a https://github.com/ y en donde dice SIGN IN ingresa con tu usuario y contraseña.
 
-3. Una vez que ya ingresaste en tu cuenta de Github  haz clik en el siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues ,luego haz  click en “New Issue” (el botón verde que se encuentra a la derecha). 
+3. Una vez que ya ingresaste en tu cuenta de Github  haz clik en el siguiente link https://github.com/Fermat-ORG/beta-testing-program/issues  se abrirá en tu pantalla una imagen igual a la que se muestra abajo, luego haz  click en “New Issue” (el botón verde que se encuentra a la derecha). 
 
 <br><br>
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github2.png "Tutorial 2")
