@@ -52,9 +52,9 @@ Finalmente haz clik en el boton "Submit New Issue" cuando hayas terminado.
 <br><br>
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github4.png "Tutorial 4")
 
-6.Paso 5: 4. Verás una pantalla similar a esta. Espera a ser contactado por @beta-testing-program-team!
+6. Espera a ser contactado por @beta-testing-program-team!
 <br><br>
-![alt text](https://raw.githubusercontent.com/Fermat-ORG/beta-testing-program/master/images/github5.png"Tutorial 4")
+
 
 
 
