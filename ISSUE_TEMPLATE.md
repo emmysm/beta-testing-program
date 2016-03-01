@@ -20,14 +20,14 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios. 
 
 ------
 #### NavigationView (Menu desplegable de izquierda a derecha)
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
 ------
 ##### Contactos
@@ -38,7 +38,7 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
    
 ------
@@ -48,7 +48,7 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
    
 ------
@@ -58,7 +58,7 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
    
 ------
@@ -68,7 +68,7 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
    
 ------
@@ -79,7 +79,7 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible.Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
    
 ------
@@ -90,9 +90,15 @@
 
 ##### Reporte de error: 
 
-   *Detallar el escenario de la prueba lo más completo posible. 
+   *Detallar el escenario de la prueba lo más completo posible. Indicando, si aplica, datos usados para las pruebas con los que se rellenaron campos de formularios.
    
 ------
+
+#### Dispositivo desde donde se realizo la prueba
+
+* Marca:
+* Modelo:
+* Version de Android:
 
 
 
